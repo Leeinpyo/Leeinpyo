@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeinpyo&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-# Hello GitHub!
+# Hello GitHub! 👋
  
 <br>
 <br>
@@ -14,7 +14,8 @@
 ## Introduction
 
 As a budding programmer, I have just started working with **.NET C#** and **MSSQL**. 
-<br>I am currently employed at an **SI company**, where I focus mainly on **equipment automation** and **inter-device connection**.
+<br>I am currently employed at an **SI company**, where I primarily develop solutions for **industrial automation services** and **control systems**. 
+<br>Although I'm new to the field, I'm eager to learn and contribute to the industry.
 <br>
 <br>
 
