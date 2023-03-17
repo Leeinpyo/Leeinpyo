@@ -8,7 +8,10 @@
 <br>
 <br>
 ## Hello GitHub!
-Wanna be a good developer someday.
+I'm a beginner developer currently working with .NET C# and MSSQL. 
+As an IT consultant at an SI company, I'm eager to learn more about software development and gain practical experience in this field. 
+Through my GitHub repositories, I hope to showcase my progress as a developer and collaborate with other like-minded individuals. 
+Let's connect and make great things together!
 <br>
 <br>
 <br>
