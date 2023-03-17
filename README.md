@@ -8,40 +8,44 @@
 <br>
 # Hello GitHub! 👋
  
+</div>
 <br>
 <br>
  
-## Introduction
+## 💻 Introduction
 
-As a budding programmer, I have just started working with **.NET C#** and **MSSQL**. 
-<br>I am currently employed at an **SI company**, where I primarily develop solutions for **industrial automation services** and **control systems**. 
+As a budding programmer, I have just started working with <strong>.NET C#</strong> and <strong>MSSQL</strong>. 
+<br>I am currently employed at an <strong>SI company</strong>, where I primarily develop solutions for <strong>industrial automation services</strong> and <strong>control systems</strong>. 
 <br>Although I'm new to the field, I'm eager to learn and contribute to the industry.
 <br>
 <br>
-
-## Passion for Technology
-
+ 
+## 🚀 Passion for Technology
+ 
 With a strong passion for technology, I constantly seek opportunities to sharpen my programming skills and expand my knowledge base.
 <br>
 <br>
-
-## GitHub Projects
-
-Through my **GitHub**, I aim to showcase my latest projects and connect with fellow developers to collaborate on exciting new projects.
+ 
+## 👨‍💻 GitHub Projects
+ 
+Through my <strong>GitHub</strong>, I aim to showcase my latest projects and connect with fellow developers to collaborate on exciting new projects.
 <br>
 <br>
-
-## Let's Build Together
-
-Let's build **innovative solutions** and **forge new connections** in the tech world!
-<br>
-<br>
-<br>
+ 
+## 🤝 Let's Build Together
+ 
+Let's build <strong>innovative solutions</strong> and <strong>forge new connections</strong> in the tech world!
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<div align=center>
+ 
 # SNS List
+ 
 <a href="https://open.kakao.com/o/s4arGX5e" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>　<a href="https://www.facebook.com/INn0CenTBluE/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>　<a href="https://www.jiraiman.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <br>
 <br>
