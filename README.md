@@ -8,11 +8,11 @@
 <br>
 <br>
 ## Hello GitHub!
-As a budding programmer, I specialize in .NET C# and MSSQL. 
-I am currently employed at an SI company, where I focus mainly on equipment automation and inter-device connection. 
-With a strong passion for technology, I constantly seek opportunities to sharpen my programming skills and expand my knowledge base. 
-Through my GitHub profile, I aim to showcase my latest projects and connect with fellow developers to collaborate on exciting new projects. 
-Let's build innovative solutions and forge new connections in the tech world!
+As a budding programmer, I specialize in .NET C# and MSSQL. <br>
+I am currently employed at an SI company, where I focus mainly on equipment automation and inter-device connection. <br>
+With a strong passion for technology, I constantly seek opportunities to sharpen my programming skills and expand my knowledge base. <br>
+Through my GitHub profile, I aim to showcase my latest projects and connect with fellow developers to collaborate on exciting new projects. <br>
+Let's build innovative solutions and forge new connections in the tech world!<br>
 <br>
 <br>
 <br>
