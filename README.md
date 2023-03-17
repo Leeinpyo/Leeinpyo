@@ -6,10 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeinpyo&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 # Hello GitHub!
  
 <br>
@@ -37,6 +33,8 @@ Through my **GitHub**, I aim to showcase my latest projects and connect with fel
 ## Let's Build Together
 
 Let's build **innovative solutions** and **forge new connections** in the tech world!
+<br>
+<br>
 <br>
 <br>
 <br>
