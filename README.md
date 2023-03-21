@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=merko&height=220&section=header&text=Welcome!&desc=This&nbsp;is&nbsp;jiraiman's&nbsp;Git&nbspProfile&fontSize=85&animation=fadeIn&fontAlignY=35&descAlignY=54&descAlign=61)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeinpyo&show_icons=true&theme=merko&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeinpyo&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeinpyo&layout=compact&theme=merko&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 # Hello GitHub! 👋
